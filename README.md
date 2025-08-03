@@ -30,7 +30,7 @@ Este projeto foi construído com foco em boas práticas do React, componentes re
 - 🔐 Autenticação JWT
 - 📊 Gráficos com Victory
 - 📷 Upload de arquivos
-- 🧰 Webpack + Babel (via Vite ou CRA)
+- 🧰 Webpack + Babel 
 
 ---
 
